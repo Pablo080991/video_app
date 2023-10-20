@@ -18,7 +18,7 @@ class VideoPlayerView extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Reproductor de Video'),
+        title: const Text('Video player'),
       ),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
